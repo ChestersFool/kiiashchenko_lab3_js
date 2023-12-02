@@ -1,3 +1,5 @@
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 # Untitled
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
