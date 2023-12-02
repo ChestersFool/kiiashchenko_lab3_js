@@ -1,3 +1,4 @@
+# Щоб не перевіряти все, ось скрін
 ![alt text](https://github.com/ChestersFool/kiiashchenko_lab3_js/blob/master/photo_2023-12-02_21-20-58.jpg?raw=true)
 
 # Untitled
